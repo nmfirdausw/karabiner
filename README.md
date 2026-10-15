@@ -11,7 +11,7 @@ Personal [Karabiner-Elements](https://karabiner-elements.pqrs.org/) configuratio
 
 Switch profiles from the Karabiner-Elements menu bar icon, or **Preferences → Profiles**.
 
-## How the layers stack
+## How the layers stack --
 
 Karabiner evaluates complex modification rules top to bottom, and a physical key event is consumed by the first manipulator that matches it. The rules in this config are ordered deliberately:
 
