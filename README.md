@@ -2,7 +2,7 @@
 
 Personal [Karabiner-Elements](https://karabiner-elements.pqrs.org/) configuration for macOS. The active profile (`CANARY`) replaces the physical QWERTY layout with a custom Canary-style letter layout, adds home row mods, a navigation layer, a symbol layer, and a handful of chorded shortcuts.
 
-## Profiles
+## Profiles -- 
 
 | Profile | Purpose |
 |---|---|
